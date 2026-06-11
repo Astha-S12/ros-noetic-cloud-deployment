@@ -123,13 +123,22 @@ ros-noetic-aws-ec2-deployment/
 
 ---
 
-## 📸 Screenshots Included
+## 📸 Screenshots
 
-* AWS EC2 instance running (t2.micro)
-* Ubuntu 20.04 verification
-* ROS Noetic installation verification (`rosversion -d`)
-* `roscore` running successfully
-* Storage configuration (30 GB EBS)
+### EC2 Instance Setup
+![EC2 Setup](screenshots/output1.png)
+
+### EBS Volume (Storage Configuration)
+![EBS Volume](screenshots/output1.png)
+
+### Catkin Workspace Successfully Configured (ROS Noetic)
+![Workspace Created](screenshots/final-output-1.png)
+
+### System Information: Ubuntu 26.04 LTS (Codename: Resolute)
+![Sys Info](screenshots/final-output-2.png)
+
+### ROS Noetic Master Node (roscore) Running Successfully Inside Docker Container
+![ROS Running](screenshots/final-output-3.png)
 
 ---
 
