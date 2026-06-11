@@ -1,1 +1,0 @@
-/root/catkin_ws/devel/.private/my_first_ros/share/my_first_ros/cmake/my_first_rosConfig.cmake

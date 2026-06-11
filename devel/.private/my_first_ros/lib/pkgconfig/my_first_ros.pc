@@ -1,8 +1,0 @@
-prefix=/root/catkin_ws/devel/.private/my_first_ros
-
-Name: my_first_ros
-Description: Description of my_first_ros
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
